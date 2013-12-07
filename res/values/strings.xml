@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colorique</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <string name="button_about">About</string>
+    <string name="button_exit">Exit</string>
+    <string name="ini_zero">0</string>
+    <string name="hash">#</string>
+    <string name="hashButton">GO</string>
+	<string name="errorTextHash">Provide correct hash value from 000000 to FFFFFF.</string>
+	
+</resources>
